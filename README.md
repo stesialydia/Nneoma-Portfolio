@@ -6,7 +6,7 @@ This portfolio showcases my experience, technical skills, and selected projects 
 
 ## 🚀 Live Portfolio
 
-🌐 **Portfolio Website:** *(Add your Netlify URL here after deployment)*
+🌐 **Portfolio Website:** *https://nneomanorom.netlify.app/*
 
 Example:
 
