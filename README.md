@@ -1,4 +1,3 @@
-# Nneoma-Portfolio
 # 🌐 Nneoma Nnorom | AI & Data Science Portfolio
 
 Welcome to my personal portfolio website.
