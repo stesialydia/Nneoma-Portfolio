@@ -8,12 +8,6 @@ This portfolio showcases my experience, technical skills, and selected projects 
 
 🌐 **Portfolio Website:** *https://nneomanorom.netlify.app/*
 
-Example:
-
-https://nneomanorom.netlify.app
-
----
-
 ## 👩‍💻 About Me
 
 I'm an AI and Data Science Engineer passionate about building intelligent systems that transform data into meaningful insights and practical solutions.
