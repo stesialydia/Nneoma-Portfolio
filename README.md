@@ -60,6 +60,16 @@ A machine learning application that analyses customer feedback and classifies se
 - Streamlit
 - LangChain
 - OpenAI API
+- Data Science
+- Data Analysis
+- Flask
+- Docker
+- RAG
+- LLMs
+- Machine Learning
+- Power BI
+- Data Visualization
+- Anthropic API 
 - HTML5
 - CSS3
 - JavaScript
